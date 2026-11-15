@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <id name="code_input" />
-    <id name="door_body" />
-    <id name="door_hint" />
-    <id name="door_root" />
-    <id name="door_title" />
-    <id name="unlock_button" />
-</resources>

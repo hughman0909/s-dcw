@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RansomLock" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@color/lock_bg</item>
+    </style>
+</resources>

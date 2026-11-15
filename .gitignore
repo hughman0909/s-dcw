@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# apktool rebuild output (regenerated from smali/ and res/)
+build/
+*.apk.idsig
